@@ -1,8 +1,15 @@
 Hola mundoooo
 que quieressssssssssssssss!!!!!!!!!!!
+<<<<<<< HEAD
+	A TI
+=======
 
 prueba de subir commits al mismo tiempo
+<<<<<<< HEAD
 
 
 
 " mas pruebas"
+=======
+>>>>>>> origin/master
+>>>>>>> origin
