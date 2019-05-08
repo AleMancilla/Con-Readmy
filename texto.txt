@@ -1,3 +1,8 @@
 Hola mundoooo
 que quieressssssssssssssss!!!!!!!!!!!
+<<<<<<< HEAD
 	A TI
+=======
+
+prueba de subir commits al mismo tiempo
+>>>>>>> origin/master
